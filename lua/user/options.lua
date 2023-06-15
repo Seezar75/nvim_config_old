@@ -25,4 +25,4 @@ vim.opt.backspace = "indent,eol,start"
 vim.opt.splitright = true
 vim.opt.splitbelow = true
 
-vim.cmd [[colorscheme darkplus]]
+vim.cmd [[colorscheme evening]]
